@@ -34,3 +34,12 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+.link{
+  position: absolute;
+  right:100px;
+}
+.mlb{
+position: absolute;
+  right:100px;
+  top:300px;
+}
