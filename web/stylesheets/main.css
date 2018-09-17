@@ -39,7 +39,40 @@
   right:100px;
 }
 .mlb{
-position: absolute;
-  right:100px;
-  top:300px;
+
 }
+
+.head{
+    flex-wrap: wrap;
+}
+h1 {
+    color: red;
+    font-family: "Nimbus Mono L", sans-serif;
+}
+.container{
+
+}
+
+p{
+    text-align: justify;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.table{
+   border: black solid 2px;
+
+}
+th{
+    border: black solid 2px;
+    text-underline: black;
+}
+td{
+    border: black solid 2px;
+}
+
+thead{
+
+    border-bottom: black solid 2px;
+}
+
