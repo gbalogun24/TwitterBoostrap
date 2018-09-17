@@ -76,3 +76,15 @@ thead{
     border-bottom: black solid 2px;
 }
 
+.nav{
+    background-color: midnightblue;
+}
+
+.navbar{
+    background-color: midnightblue;
+}
+.navbar-nav{
+    background-color: midnightblue;
+
+}
+
